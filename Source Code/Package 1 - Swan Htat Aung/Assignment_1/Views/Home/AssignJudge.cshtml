@@ -1,0 +1,41 @@
+﻿@model Assignment_1.Models.CompetitionJudge
+
+@{
+    ViewData["Title"] = "AssignJudge";
+}
+
+<h1>AssignJudge</h1>
+
+<h4>CompetitionJudge</h4>
+<hr />
+<p><strong>@TempData["Message"]</strong></p>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AssignJudge">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CompetitionID" class="control-label"></label>
+                <input asp-for="CompetitionID" class="form-control" readonly />
+                <span asp-validation-for="CompetitionID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="JudgeID" class="control-label"></label><br />
+                <div class="col-sm-20 col-md-20">
+                    <select asp-for="JudgeID"
+                            asp-items="@ViewData["JudgesList"]
+                                    as List<SelectListItem>"
+                            class="form-control">
+                    </select>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ViewCompetition">Back to List</a>
+</div>
+

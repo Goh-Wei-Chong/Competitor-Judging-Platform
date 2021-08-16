@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Assignment_1.Models.Competition>
+
+@if (Model.ToList().Count > 0)
+{
+    <p><strong>@TempData["Message"]</strong></p>
+    <div class="table-responsive">
+        <table id="viewCompetition" class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Name</th>
+                    <th>Start Date</th>
+                    <th>End Date</th>
+                    <th>Results Date</th>
+                    <th></th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                <tr>
+                    <td>@item.CompetitionName</td>
+                    <td>@item.StartDate.ToString()</td>
+                    <td>@item.EndDate.ToString()</td>
+                    <td>@item.ResultReleasedDate.ToString()</td>
+                    <td>
+                        <a asp-action="EditCompetition" asp-controller="Home"
+                           asp-route-id="@item.CompetitionID">Edit</a>
+                    </td>
+                    <td>
+                        <a asp-action="ViewAssignedJudge" asp-controller="Home"
+                           asp-route-id="@item.CompetitionID">View Judges</a>
+                    </td>
+                    <td>
+                        <a asp-action="AssignJudge" asp-controller="Home"
+                           asp-route-id="@item.CompetitionID">Assign Judges</a>
+                    </td>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+else
+{
+    <span style="color:red">No record found!</span>
+}

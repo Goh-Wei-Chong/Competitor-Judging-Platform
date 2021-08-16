@@ -1,0 +1,39 @@
+﻿@model Assignment_1.Models.AreaInterest
+
+@{
+    ViewData["Title"] = "DeleteAreaInterest";
+}
+
+<h1>Delete Area of Interest</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.AreaInterestID)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.AreaInterestID)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+    </dl>
+    
+    <form asp-action="DeleteAreaInterest">
+        <div class="form-group">
+            <input type="hidden" asp-for="AreaInterestID" class="form-control" readonly />
+            <span asp-validation-for="AreaInterestID" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <input type="hidden" asp-for="Name" class="form-control" readonly />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="ViewAreaInterest">Back to List</a>
+    </form>
+</div>

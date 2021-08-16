@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Assignment_1.Models.Judge>
+
+@{
+    ViewData["Title"] = "ViewAssignedJudge";
+}
+
+<h1>Assigned Judges</h1>
+
+@if (Model.ToList().Count > 0)
+{
+
+    <div class="table-responsive">
+        <table id="viewCompetition" class="table table-striped table-bordered">
+            <thead class="thead-dark">
+                <tr>
+                    <th>JudgeID</th>
+                    <th>Name</th>
+                    <th>Salutation</th>
+                    <th>Email</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.JudgeID)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.JudgeName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Salutation)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.EmailAddr)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+}
+else
+{
+<span style="color:red">No Judges Assigned!</span>
+}
+
+<div>
+    <a asp-action="ViewCompetition">Back to List</a>
+</div>

@@ -1,0 +1,769 @@
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.exe
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.deps.json
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.json
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.Manifest.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.xml
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment WEB - Marcus Hon Wei Yang.styles.css
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.input.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.output.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorCoreGenerate.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CopyComplete
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\JudgeMain.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment WEB - Marcus Hon Wei Yang\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JudgeMenu.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.exe
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.deps.json
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.json
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.Manifest.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.xml
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment WEB - Marcus Hon Wei Yang.styles.css
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.input.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.output.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorCoreGenerate.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JudgeMenu.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CopyComplete
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\_ViewJudge.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Loginpage.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Create.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\_ViewCriteria.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Create.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.json
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.exe
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.deps.json
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.json
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.dev.json
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csprojAssemblyReference.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfoInputs.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfo.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CoreCompileInputs.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.MvcApplicationPartsAssemblyInfo.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.Manifest.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.xml
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment WEB - Marcus Hon Wei Yang.styles.css
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.input.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.output.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorCoreGenerate.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Create.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Index.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\_ViewCriteria.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Loginpage.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Create.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Index.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\_ViewJudge.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JudgeMenu.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cache
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cs
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CopyComplete
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+\\ictwwdnk.ict.np.edu.sg\web\P02\s10207469\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.Manifest.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.xml
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment WEB - Marcus Hon Wei Yang.styles.css
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.input.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.output.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorCoreGenerate.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Create.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\_ViewCriteria.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Loginpage.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Create.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\_ViewJudge.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JudgeMenu.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.exe
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.deps.json
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.json
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CopyComplete
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.genruntimeconfig.cache
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competition\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\_ViewCompetitionSubmission.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitor\_ViewCompetitor.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitor\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\_ViewCompetitionScore.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\Edit.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitions\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Details.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Edit.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\_JudgeMenu.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment Checkpoint 2\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\JudgeMain.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.exe
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.deps.json
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.json
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.dev.json
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csprojAssemblyReference.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfoInputs.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CoreCompileInputs.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.Manifest.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.xml
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment WEB - Marcus Hon Wei Yang.styles.css
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.input.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.output.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorCoreGenerate.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\Edit.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\_ViewCompetitionScore.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Details.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Edit.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\_ViewCompetitionSubmission.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitions\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competition\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitor\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitor\_ViewCompetitor.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Create.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\_ViewCriteria.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\JudgeMain.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Loginpage.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Create.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Index.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\_ViewJudge.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JudgeMenu.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cache
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cs
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CopyComplete
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\marcu\Desktop\Assignment_1 Marcus Hon Wei Yang\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.genruntimeconfig.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.exe
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.deps.json
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.json
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.runtimeconfig.dev.json
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.AssemblyReference.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfoInputs.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.AssemblyInfo.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CoreCompileInputs.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorAssemblyInfo.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.Manifest.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\staticwebassets\Assignment WEB - Marcus Hon Wei Yang.StaticWebAssets.xml
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment WEB - Marcus Hon Wei Yang.styles.css
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.input.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.TagHelpers.output.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorCoreGenerate.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\Edit.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionScore\_ViewCompetitionScore.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Details.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Edit.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\CompetitionSubmission\_ViewCompetitionSubmission.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitions\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competition\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitor\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Competitor\_ViewCompetitor.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Create.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Criteria\_ViewCriteria.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\JudgeMain.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Loginpage.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Create.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Judge\_ViewJudge.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_JudgeMenu.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cache
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.RazorTargetAssemblyInfo.cs
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.Views.pdb
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.csproj.CopyComplete
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.dll
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.pdb
+C:\Users\Goh Wei Chong\Downloads\Assignment_1 (2)\Assignment_1\Assignment WEB - Marcus Hon Wei Yang\obj\Debug\netcoreapp3.1\Assignment WEB - Marcus Hon Wei Yang.genruntimeconfig.cache

@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Goh Wei Chong\\Downloads\\Ngee Ann Poly\\Year 2\\WEB\\Checkpoint 3\\Source Code\\Package 3 - Marcus Hon\\Assignment_1\\Assignment WEB - Marcus Hon Wei Yang\\Assignment WEB - Marcus Hon Wei Yang.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Goh Wei Chong\\Downloads\\Ngee Ann Poly\\Year 2\\WEB\\Checkpoint 3\\Source Code\\Package 3 - Marcus Hon\\Assignment_1\\Assignment WEB - Marcus Hon Wei Yang\\Assignment WEB - Marcus Hon Wei Yang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Goh Wei Chong\\Downloads\\Ngee Ann Poly\\Year 2\\WEB\\Checkpoint 3\\Source Code\\Package 3 - Marcus Hon\\Assignment_1\\Assignment WEB - Marcus Hon Wei Yang\\Assignment WEB - Marcus Hon Wei Yang.csproj",
+        "projectName": "Assignment WEB - Marcus Hon Wei Yang",
+        "projectPath": "C:\\Users\\Goh Wei Chong\\Downloads\\Ngee Ann Poly\\Year 2\\WEB\\Checkpoint 3\\Source Code\\Package 3 - Marcus Hon\\Assignment_1\\Assignment WEB - Marcus Hon Wei Yang\\Assignment WEB - Marcus Hon Wei Yang.csproj",
+        "packagesPath": "C:\\Users\\Goh Wei Chong\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Goh Wei Chong\\Downloads\\Ngee Ann Poly\\Year 2\\WEB\\Checkpoint 3\\Source Code\\Package 3 - Marcus Hon\\Assignment_1\\Assignment WEB - Marcus Hon Wei Yang\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Goh Wei Chong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "AdministratorMain";
+}
+<link rel="stylesheet" href="~/css/home2.css" />
+<link rel="stylesheet" href="~/css/site.css" />
+
+
+<div class="outer-container">
+    <div class="inner-container-one">
+        <h2>View & Edit Competitions</h2>
+        <img src="~/images/competition.png" style="width: 200px; padding-top: 60px; padding-bottom: 20px;" />
+        <form action="~/Home/ViewCompetition">
+            <input class="viewbutton" type="submit" value="Go to Competitions" />
+        </form>
+    </div>
+    <div class="inner-container-two">
+        <h2>View & Edit Area of Interests</h2>
+        <img src="~/images/areainterest.png" style="width: 200px; padding-top: 20px; padding-bottom: 20px;" />
+        <form action="~/Home/ViewAreaInterest">
+            <input class="viewbutton" type="submit" value="Area of Interests" />
+        </form>
+    </div>
+</div>
+

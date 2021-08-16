@@ -1,0 +1,10 @@
+﻿@model IEnumerable<Assignment_1.Models.Competition>
+
+@{
+    ViewData["Title"] = "View Competitions";
+}
+
+<h4 class="PageTitle">View Competition</h4>
+<p><a asp-action="CreateCompetition">Create New Competition</a></p>
+
+<partial name="~/Views/Home/_ViewCompetition.cshtml" model="@Model" />

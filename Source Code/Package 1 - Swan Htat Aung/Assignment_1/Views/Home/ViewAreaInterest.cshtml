@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Assignment_1.Models.AreaInterest>
+
+@{
+    ViewData["Title"] = "View Area of Interest";
+}
+<h4 class="PageTitle">View Area of Interest</h4>
+<p><a asp-action="CreateAreaInterest">Create New Area of Interest</a></p>
+
+<partial name="~/Views/Home/_ViewAreaInterest.cshtml" model="@Model" />

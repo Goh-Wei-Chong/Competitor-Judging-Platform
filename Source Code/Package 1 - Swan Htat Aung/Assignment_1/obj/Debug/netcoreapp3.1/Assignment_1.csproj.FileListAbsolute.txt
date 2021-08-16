@@ -1,0 +1,384 @@
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.Views.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.Views.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csprojAssemblyReference.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorAssemblyInfo.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorAssemblyInfo.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment_1.StaticWebAssets.Manifest.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment_1.StaticWebAssets.xml
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment_1.styles.css
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.TagHelpers.input.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.TagHelpers.output.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorCoreGenerate.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorTargetAssemblyInfo.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorTargetAssemblyInfo.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.Views.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CopyComplete
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdministratorMenu.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorMain.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.Views.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.Views.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csprojAssemblyReference.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorAssemblyInfo.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorAssemblyInfo.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment_1.StaticWebAssets.Manifest.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment_1.StaticWebAssets.xml
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment_1.styles.css
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.TagHelpers.input.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.TagHelpers.output.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorCoreGenerate.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorMain.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewAreaInterest.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewCompetition.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdministratorMenu.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorTargetAssemblyInfo.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorTargetAssemblyInfo.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.Views.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CopyComplete
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AssignJudge.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PublicMenu.cshtml.g.cs
+C:\Users\65914\Desktop\bruh\y2 sem1\WEB\Assignment1\SHEEESH INDIV\testing dropdown\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewAssignedJudge.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.Views.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.Views.pdb
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.AssemblyReference.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CoreCompileInputs.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorAssemblyInfo.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorAssemblyInfo.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment_1.StaticWebAssets.Manifest.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\staticwebassets\Assignment_1.StaticWebAssets.xml
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Assignment_1.styles.css
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.TagHelpers.input.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.TagHelpers.output.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorCoreGenerate.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AdministratorMain.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\AssignJudge.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateAreaInterest.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\CreateCompetition.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\DeleteAreaInterest.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditCompetition.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewAreaInterest.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewAssignedJudge.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\ViewCompetition.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewAreaInterest.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Home\_ViewCompetition.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_AdministratorMenu.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PublicMenu.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorTargetAssemblyInfo.cache
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.RazorTargetAssemblyInfo.cs
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.Views.pdb
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csproj.CopyComplete
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\Goh Wei Chong\Downloads\Ngee Ann Poly\Year 2\WEB\Checkpoint 3\Source Code\Package 1 - Swan Htat Aung\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.genruntimeconfig.cache
